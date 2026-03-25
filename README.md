@@ -20,9 +20,9 @@ The Roulette Game is an exciting and interactive betting game where players can 
 - The game includes a clean interface with a roulette wheel and clear betting options.
 - Watch the animation as the wheel spins and the ball lands on a winning spot.
 
-## Oyun Görüntüsü
-
-![Roulette Game Screenshot](screenshot.png)
 
 Good luck and enjoy the game!
+
+<img width="843" height="843" alt="screenshot" src="https://github.com/user-attachments/assets/5f7301f3-690a-438a-9b73-fca7ae141116" />
+
 
